@@ -1,0 +1,9 @@
+{
+  "region": "oss-cn-shenzhen",
+  "accessKeyId": "XXXXXXX",
+  "accessKeySecret": "XXXXXXX",
+  "bucket": "seemgame",
+  "localPath": "./dist/**",
+  "ossPath": "/game/football/",
+  "callbackUrl": "http://nodejs.org/dist/index.json"
+}
