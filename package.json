@@ -1,0 +1,23 @@
+{
+  "name": "oss-upload",
+  "version": "1.0.1",
+  "description": "一键把打包好的文件上传到OSS的JS脚本。解放双手，适合任何项目。",
+  "main": "index.js",
+  "scripts": {
+    "oss": "node oss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seemgame/oss-upload.git"
+  },
+  "author": "YUMCC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seemgame/oss-upload/issues"
+  },
+  "homepage": "https://github.com/seemgame/oss-upload#readme",
+  "dependencies": {
+    "ali-oss": "^6.8.0",
+    "globby": "^11.0.0"
+  }
+}
